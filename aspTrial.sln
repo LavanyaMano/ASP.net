@@ -1,0 +1,16 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EA209970-26E4-4CAF-B838-547E62554C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspTrial", "src\aspTrial\aspTrial.csproj", "{67953C5F-DE67-401E-862A-06ED8D9AEAFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67953C5F-DE67-401E-862A-06ED8D9AEAFA} = {EA209970-26E4-4CAF-B838-547E62554C78}
+	EndGlobalSection
+EndGlobal
